@@ -55,10 +55,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UXOCEWLG
+DocumentUniqueId=WZNKCUOX
 
 [Document2]
-DocumentPath=PcbLib1.PcbLib
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\intagrated library deneme\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BIPEQNBO
 
 [GeneratedDocument1]
-DocumentPath=Database Messages.txt
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\Database Messages.txt
 DItemRevisionGUID=
 
 [OutputGroup1]
