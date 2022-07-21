@@ -1,0 +1,522 @@
+09:26:22.312 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Start Load Project Data C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb 
+09:26:22.415 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Project loading... Documents: 1 
+09:26:22.487 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Sena\Desktop\altium derslerim\PCB_Project\Sheet1.SchDoc - sheet was imported (objects:29) 
+09:26:22.893 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Sena\Desktop\altium derslerim\PCB_Project\Sheet1.SchDoc - sheet was taken from cache (objects:29) 
+09:26:22.954 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V3) DocumentLoading: documentFullPath: C:\Users\Sena\Desktop\altium derslerim\PCB_Project\Sheet1.SchDoc, projectFullPath: C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb, isDeviceSheet: False 
+09:26:22.973 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V3) Compilation requested (C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb): DCCW.ProjectLoaded 
+09:26:22.973 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: (0.567 s) Load Project C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb Completed, 1 schematics 
+09:26:22.985 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) Compilation requested (C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb): DCCW.DocumentLoading (delayed) 
+09:26:22.985 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V5) (0.030 s) DocumentLoading finished 
+09:26:23.219 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.005 s) Plugin 'UniqueIdsRepairer' completed 
+09:26:23.257 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.037 s) Plugin 'SheetNumberingUpdater' completed 
+09:26:23.257 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V5) Unique ePostCompile notification register: eStructureChanged 
+09:26:23.263 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.006 s) Plugin 'ProjectStructureChangesNotifier' completed 
+09:26:23.263 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (0.001 s) Plugin 'CurrentDocumentViewUpdater' completed 
+09:26:23.520 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V5) (0.247 s) Project  compilation completed 
+09:26:24.325 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.033 s) ViolationManagerConsumer (Incoming violations:2, Total violations:2, Delete existing:True) 
+09:26:24.325 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V5) (0.368 s) ERC default completed 
+09:26:24.325 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) (1.248 s) Compilation request completed: DONE  - C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb, Compiled: True 
+09:26:26.594 [Warn] Altium.Sch.DataModel.Objects.SchDataObject: Change of the SchDataLibrary's UniqueID ignored ("UDEZRIGB" -> "OEHAZQKM"). 
+09:26:26.711 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:26:26.711 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+09:26:26.824 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:26:26.824 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+09:26:27.937 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmProjectView: '' 
+09:26:31.173 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.004 s) Project DDM Compiled notifications end 
+09:26:31.173 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notification start - eUdmNavigator, C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb 
+09:26:31.173 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notification start - eUdmProjectView, C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb 
+09:26:31.275 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.029 s) Markers for Schematic Error Objects: 2 
+09:26:31.275 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) (0.102 s) Compile Notifications end 
+09:26:36.085 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V5) CompileNotifications sending... 
+09:26:36.131 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) (0.025 s) Project logical compilation completed 
+09:26:36.487 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V5) CompileNotification sent. 
+09:39:11.632 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Init: 55 ms 
+09:39:11.632 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Finish: 2 ms 
+09:39:11.632 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Painter: Total: 31 ms, Count: 15, Avg: 2 ms 
+09:39:11.632 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Msg: Total: 4 ms, Count: 21, Avg: 0 ms 
+09:39:11.648 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Touching: 10 ms 
+09:39:11.648 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:39:11.703 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 1 ms (Full:1 ms) 
+09:39:17.124 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Init: 92 ms 
+09:39:17.124 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Finish: 12 ms 
+09:39:17.124 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Painter: Total: 347 ms, Count: 163, Avg: 2 ms 
+09:39:17.124 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Msg: Total: 254 ms, Count: 271, Avg: 0 ms 
+09:39:19.629 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Init: 53 ms 
+09:39:19.629 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Finish: 2 ms 
+09:39:19.629 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Painter: Total: 381 ms, Count: 135, Avg: 2 ms 
+09:39:19.629 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Msg: Total: 149 ms, Count: 204, Avg: 0 ms 
+09:39:19.629 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 10 ms 
+09:39:19.649 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): PEIYKTZX 
+09:39:19.714 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:39:28.121 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyInPlaceEdit.Init: 114 ms 
+09:39:28.121 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyInPlaceEdit.Finish: 1 ms 
+09:39:28.121 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyInPlaceEdit.Painter: Total: 5 ms, Count: 268, Avg: 0 ms 
+09:39:28.121 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyInPlaceEdit.Msg: Total: 128 ms, Count: 400, Avg: 0 ms 
+09:39:28.131 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): PEIYKTZX 
+09:39:28.131 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:39:30.048 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:39:30.048 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:39:30.048 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:39:34.260 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Public\Documents\Altium\Schlib1.$$$ (objects:0) 
+09:39:39.656 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+09:39:40.132 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+09:39:44.731 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+09:39:45.274 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+09:39:47.731 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 81 ms 
+09:39:50.483 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+09:39:50.825 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+09:39:58.605 [Warn] Altium.Sch.DataModel.Objects.SchDataObject: Change of the SchDataLibrary's UniqueID ignored ("UXOCEWLG" -> "BVKJQLPT"). 
+09:39:58.617 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:39:58.617 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:39:58.655 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:39:58.655 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:40:02.416 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 106 ms 
+09:40:03.538 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 126 ms 
+09:40:03.548 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 340 ms 
+09:40:10.158 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 3 ms 
+09:40:10.170 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 53 ms 
+09:40:12.954 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0125036, MEDIAN = 0:00:00,0125036, MAX = 0:00:00,0125036 
+09:40:52.838 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 6 ms 
+09:40:52.850 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 108 ms 
+09:41:57.625 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:41:57.625 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:42:00.717 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:42:00.717 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:42:01.894 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:42:01.894 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:42:01.894 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:48:52.112 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:48:52.112 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:48:55.678 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:48:55.678 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:48:59.601 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:48:59.601 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+09:48:59.601 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:05.991 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Init: 66 ms 
+09:49:05.991 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Finish: 7 ms 
+09:49:05.991 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Painter: Total: 338 ms, Count: 409, Avg: 0 ms 
+09:49:05.991 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Msg: Total: 425 ms, Count: 718, Avg: 0 ms 
+09:49:11.925 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Init: 75 ms 
+09:49:11.925 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Finish: 6 ms 
+09:49:11.925 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Painter: Total: 327 ms, Count: 436, Avg: 0 ms 
+09:49:11.925 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Msg: Total: 302 ms, Count: 728, Avg: 0 ms 
+09:49:12.669 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Init: 78 ms 
+09:49:12.669 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Finish: 4 ms 
+09:49:12.669 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Painter: Total: 127 ms, Count: 53, Avg: 2 ms 
+09:49:12.669 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Msg: Total: 16 ms, Count: 90, Avg: 0 ms 
+09:49:12.740 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:49:15.780 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): GUCLGXRJ 
+09:49:15.801 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:17.783 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:49:17.936 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): FHSMTOUA 
+09:49:17.936 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:17.936 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 154 ms 
+09:49:17.936 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.Selection.Pin.Time: 155 ms 
+09:49:18.231 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:49:18.231 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:18.406 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 221 ms 
+09:49:18.723 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): FHSMTOUA 
+09:49:18.919 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:22.246 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:25.857 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:26.031 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:49:26.143 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): GUCLGXRJ 
+09:49:26.143 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:26.143 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 113 ms 
+09:49:26.143 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.Selection.Pin.Time: 113 ms 
+09:49:28.264 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:49:28.264 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:28.428 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 186 ms 
+09:49:28.715 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): GUCLGXRJ 
+09:49:28.951 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:31.103 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:33.322 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:34.811 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:49:34.811 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+09:49:34.811 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:39.366 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 89 ms 
+09:49:39.366 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 7 ms 
+09:49:39.366 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 235 ms, Count: 91, Avg: 2 ms 
+09:49:39.366 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 275 ms, Count: 146, Avg: 1 ms 
+09:49:42.306 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 80 ms 
+09:49:42.306 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 3 ms 
+09:49:42.306 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 466 ms, Count: 247, Avg: 1 ms 
+09:49:42.306 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 197 ms, Count: 425, Avg: 0 ms 
+09:49:43.503 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 77 ms 
+09:49:43.503 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 6 ms 
+09:49:43.503 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 29 ms, Count: 40, Avg: 0 ms 
+09:49:43.503 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 110 ms, Count: 55, Avg: 2 ms 
+09:49:44.461 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 76 ms 
+09:49:44.461 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 4 ms 
+09:49:44.461 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 74 ms, Count: 57, Avg: 1 ms 
+09:49:44.461 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 14 ms, Count: 93, Avg: 0 ms 
+09:49:45.728 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 82 ms 
+09:49:45.728 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 3 ms 
+09:49:45.728 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 251 ms, Count: 125, Avg: 2 ms 
+09:49:45.728 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 145 ms, Count: 224, Avg: 0 ms 
+09:49:47.069 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 64 ms 
+09:49:47.069 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 7 ms 
+09:49:47.069 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 185 ms, Count: 106, Avg: 1 ms 
+09:49:47.069 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 139 ms, Count: 181, Avg: 0 ms 
+09:49:48.810 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 79 ms 
+09:49:48.810 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 4 ms 
+09:49:48.810 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 180 ms, Count: 102, Avg: 1 ms 
+09:49:48.810 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 117 ms, Count: 165, Avg: 0 ms 
+09:49:49.336 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 78 ms 
+09:49:49.336 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 1 ms 
+09:49:49.336 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 8 ms, Count: 21, Avg: 0 ms 
+09:49:49.336 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 0 ms, Count: 32, Avg: 0 ms 
+09:49:51.038 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 65 ms 
+09:49:51.038 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 7 ms 
+09:49:51.038 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 411 ms, Count: 192, Avg: 2 ms 
+09:49:51.038 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 180 ms, Count: 346, Avg: 0 ms 
+09:49:51.116 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:49:51.758 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): JVZSRUVI 
+09:49:51.779 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:49:53.696 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Public\Documents\Altium\Schlib1.$$$ (objects:0) 
+09:52:19.915 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:52:19.915 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+09:52:19.915 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:52:31.657 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:55:07.613 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:55:07.613 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+09:55:07.613 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:55:20.027 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.Show.Drawing: 20 ms 
+09:55:20.053 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.Show: 128 ms 
+09:55:20.800 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:55:20.800 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:55:20.800 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:55:23.563 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,002333, MEDIAN = 0:00:00,002333, MAX = 0:00:00,002333 
+09:55:24.456 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V5) ProjectContainer.Compile (C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+09:55:24.472 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:0, Total violations:2, Delete existing:False) 
+09:55:24.472 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V5) (0.010 s) ERC long running completed 
+09:55:24.605 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V5) ProjectAdapter.PopulateMessagesManager (2) 
+09:55:33.564 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0009512, MEDIAN = 0:00:00,0009512, MAX = 0:00:00,0009512 
+09:55:33.996 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+09:55:39.229 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 2 
+09:55:40.294 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) Compilation requested (C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb): Action.ProcessEnd 
+09:55:40.294 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 31 ms (Full:153 ms) 
+09:55:40.311 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 1 
+09:55:42.739 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+09:55:42.819 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+09:55:42.819 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+09:55:42.819 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.001 s) Plugin 'ProjectStructureChangesNotifier' completed 
+09:55:42.819 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+09:55:42.828 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V6) (0.006 s) Project  compilation completed 
+09:55:42.828 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:2, Total violations:2, Delete existing:True) 
+09:55:42.828 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V6) (0.001 s) ERC default completed 
+09:55:42.828 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) (0.017 s) Compilation request completed: DONE  - C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb, Compiled: True 
+09:55:42.828 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) (0.002 s) Project DDM Compiled notifications end 
+09:55:42.828 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Compile Notification start - eUdmNavigator, C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb 
+09:55:42.828 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Compile Notification start - eUdmProjectView, C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb 
+09:55:42.828 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) (0.000 s) Markers for Schematic Error Objects: 2 
+09:55:42.828 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) (0.000 s) Compile Notifications end 
+09:55:43.565 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00,0008018, MEDIAN = 0:00:00,0008348, MAX = 0:00:00,0008679 
+09:55:44.478 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:55:44.478 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+09:55:44.478 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:59:16.313 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Init: 56 ms 
+09:59:16.313 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Finish: 1 ms 
+09:59:16.313 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Painter: Total: 256 ms, Count: 113, Avg: 2 ms 
+09:59:16.313 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Msg: Total: 66 ms, Count: 207, Avg: 0 ms 
+09:59:16.313 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Touching: 2 ms 
+09:59:16.313 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (4): FHSMTOUA, GUCLGXRJ, UIVICTYH, JVZSRUVI 
+09:59:16.313 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:59:17.878 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (3): GUCLGXRJ, UIVICTYH, JVZSRUVI 
+09:59:17.943 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (2): UIVICTYH, JVZSRUVI 
+09:59:17.943 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): JVZSRUVI 
+09:59:17.943 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+09:59:17.943 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+09:59:34.706 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Init: 67 ms 
+09:59:34.706 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Finish: 4 ms 
+09:59:34.706 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Painter: Total: 1833 ms, Count: 873, Avg: 2 ms 
+09:59:34.706 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Msg: Total: 290 ms, Count: 2018, Avg: 0 ms 
+09:59:38.168 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Init: 77 ms 
+09:59:38.168 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Finish: 5 ms 
+09:59:38.168 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Painter: Total: 231 ms, Count: 416, Avg: 0 ms 
+09:59:38.168 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Msg: Total: 259 ms, Count: 747, Avg: 0 ms 
+10:02:21.905 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Init: 78 ms 
+10:02:21.905 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Finish: 3 ms 
+10:02:21.905 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Painter: Total: 15451 ms, Count: 7046, Avg: 2 ms 
+10:02:21.905 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditLocationNotifyViews.Msg: Total: 9528 ms, Count: 7440, Avg: 1 ms 
+10:02:22.018 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 2 ms 
+10:02:22.213 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): SBWNQFPD 
+10:02:22.222 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:02:40.846 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:02:40.846 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+10:02:40.846 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:02:46.429 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 62 ms 
+10:02:46.429 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 4 ms 
+10:02:46.429 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 959 ms, Count: 183, Avg: 5 ms 
+10:02:46.429 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 316 ms, Count: 317, Avg: 0 ms 
+10:02:49.884 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 73 ms 
+10:02:49.884 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 3 ms 
+10:02:49.884 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 705 ms, Count: 163, Avg: 4 ms 
+10:02:49.884 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 126 ms, Count: 245, Avg: 0 ms 
+10:02:51.164 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 58 ms 
+10:02:51.164 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 3 ms 
+10:02:51.164 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 453 ms, Count: 96, Avg: 4 ms 
+10:02:51.164 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 44 ms, Count: 169, Avg: 0 ms 
+10:02:52.647 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 67 ms 
+10:02:52.647 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 4 ms 
+10:02:52.647 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 352 ms, Count: 80, Avg: 4 ms 
+10:02:52.647 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 253 ms, Count: 133, Avg: 1 ms 
+10:02:55.054 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 72 ms 
+10:02:55.054 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 4 ms 
+10:02:55.054 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 535 ms, Count: 125, Avg: 4 ms 
+10:02:55.054 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 123 ms, Count: 196, Avg: 0 ms 
+10:02:55.504 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 74 ms 
+10:02:55.504 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 1 ms 
+10:02:55.504 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 11 ms, Count: 19, Avg: 0 ms 
+10:02:55.504 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 0 ms, Count: 30, Avg: 0 ms 
+10:02:56.387 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Init: 61 ms 
+10:02:56.387 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Finish: 2 ms 
+10:02:56.387 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Painter: Total: 420 ms, Count: 82, Avg: 5 ms 
+10:02:56.387 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyEditPolyLinePoint.Msg: Total: 38 ms, Count: 154, Avg: 0 ms 
+10:02:56.444 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:02:56.700 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): LEOEALRI 
+10:02:56.700 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:02:58.476 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): LEOEALRI 
+10:02:58.476 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:02:58.581 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:02.596 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:04.109 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:03:04.274 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): JPGLKPYX 
+10:03:04.274 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:04.274 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 166 ms 
+10:03:04.274 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.Selection.Polyline.Time: 166 ms 
+10:03:04.370 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:06.858 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:07.899 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:03:07.899 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+10:03:07.899 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:09.411 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Init: 50 ms 
+10:03:09.411 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Finish: 1 ms 
+10:03:09.411 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Painter: Total: 227 ms, Count: 48, Avg: 4 ms 
+10:03:09.411 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Msg: Total: 17 ms, Count: 82, Avg: 0 ms 
+10:03:09.419 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Touching: 6 ms 
+10:03:09.419 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (2): DVHIILYT, JPGLKPYX 
+10:03:09.992 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:10.805 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragSelection.Begin: 81 ms 
+10:03:12.816 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragSelection.InProgress avg: 1 ms, max: 20 ms, total: 56 ms, count: 45 
+10:03:12.816 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDrag.Init: 66 ms 
+10:03:12.816 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDrag.Finish: 5 ms 
+10:03:12.816 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDrag.Painter: Total: 61 ms, Count: 100, Avg: 0 ms 
+10:03:12.816 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDrag.Msg: Total: 17 ms, Count: 144, Avg: 0 ms 
+10:03:12.952 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (2): DVHIILYT, JPGLKPYX 
+10:03:12.952 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:12.952 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragSelection.Finishing: 147 ms 
+10:03:12.952 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragSelection.General: 229 ms 
+10:03:14.994 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:03:14.994 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+10:03:14.994 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:25.635 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+10:03:25.858 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): DVHIILYT 
+10:03:25.858 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:25.858 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 224 ms 
+10:03:25.858 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.Selection.Pin.Time: 224 ms 
+10:03:26.016 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:36.084 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:38.408 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+10:03:38.505 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): SBWNQFPD 
+10:03:38.505 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:38.505 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 98 ms 
+10:03:38.505 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.Selection.Pin.Time: 98 ms 
+10:03:38.635 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:41.532 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:42.855 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:03:42.855 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+10:03:42.855 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:03:52.913 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:03:52.913 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:03:54.284 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:03:54.284 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:03:54.939 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:03:54.939 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:03:55.190 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:03:55.190 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:04:37.050 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:04:37.050 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:04:37.655 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:04:37.655 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:04:48.353 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:05:29.582 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:05:32.192 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:05:32.345 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:32.345 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+10:05:32.345 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:05:36.996 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:37.005 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:05:37.624 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:37.624 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:05:37.770 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:05:38.297 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:38.297 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:05:38.654 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:38.654 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:05:38.860 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:38.860 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:05:40.245 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:40.245 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:05:40.636 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:40.636 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:05:41.573 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Init: 51 ms 
+10:05:41.573 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Finish: 1 ms 
+10:05:41.573 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Painter: Total: 13 ms, Count: 2, Avg: 6 ms 
+10:05:41.573 [Info] Altium.Sch.Core.Performance.AbstractLogger: TProcessGraphicallyDefineSelectionRectangle.Msg: Total: 3 ms, Count: 3, Avg: 1 ms 
+10:05:41.583 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.AreaInside: 5 ms 
+10:05:41.583 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:41.644 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:05:43.295 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:43.295 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 5 ms 
+10:05:43.998 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:43.998 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 5 ms 
+10:05:47.754 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:05:48.143 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): PEIYKTZX 
+10:05:48.143 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:05:48.143 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 389 ms 
+10:05:48.143 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.Selection.Label.Time: 390 ms 
+10:05:49.996 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:50.130 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.DeleteObject.Time: 135 ms 
+10:05:50.130 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:05:51.277 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:05:51.278 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:05:51.278 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:05:55.581 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Public\Documents\Altium\Schlib1.$$$ (objects:0) 
+10:05:58.312 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+10:05:59.888 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+10:06:00.163 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab.Drawing: 4 ms 
+10:06:00.179 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.LogicalTab: 149 ms 
+10:06:09.960 [Warn] Altium.Sch.DataModel.Objects.SchDataObject: Change of the SchDataLibrary's UniqueID ignored ("QZZBUMRX" -> "UXOCEWLG"). 
+10:06:12.391 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.Show: 2 ms 
+10:06:14.358 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:06:14.358 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:06:14.358 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:06:19.226 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V6) ProjectContainer.Compile (C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+10:06:19.226 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:0, Total violations:2, Delete existing:False) 
+10:06:19.226 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V6) (0.000 s) ERC long running completed 
+10:06:19.231 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V6) ProjectAdapter.PopulateMessagesManager (2) 
+10:06:19.231 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) (0.000 s) Project logical compilation completed 
+10:06:23.872 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0007985, MEDIAN = 0:00:00,0007985, MAX = 0:00:00,0007985 
+10:06:24.761 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+10:06:26.306 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 2 
+10:06:26.362 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) Compilation requested (C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb): Action.ProcessEnd 
+10:06:26.362 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 1 ms (Full:14 ms) 
+10:06:26.379 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 1 
+10:06:29.035 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+10:06:29.084 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+10:06:29.084 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+10:06:29.084 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+10:06:29.084 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+10:06:29.084 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V7) (0.001 s) Project  compilation completed 
+10:06:29.084 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:2, Total violations:2, Delete existing:True) 
+10:06:29.084 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V7) (0.001 s) ERC default completed 
+10:06:29.084 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) (0.005 s) Compilation request completed: DONE  - C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb, Compiled: True 
+10:06:29.102 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) (0.004 s) Project DDM Compiled notifications end 
+10:06:29.102 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Compile Notification start - eUdmNavigator, C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb 
+10:06:29.102 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Compile Notification start - eUdmProjectView, C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb 
+10:06:29.102 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) (0.000 s) Markers for Schematic Error Objects: 2 
+10:06:29.102 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) (0.000 s) Compile Notifications end 
+10:06:30.506 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:06:30.506 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:06:30.506 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:06:33.889 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00,000853, MEDIAN = 0:00:00,0009505, MAX = 0:00:00,001048 
+10:06:37.846 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:06:37.846 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:06:37.846 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:06:58.031 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] DocumentSch.Show: 2 ms 
+10:07:02.460 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\History\00000000CAC25985\Sheet1.~(4).SchDoc 
+10:07:02.460 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\History\00000000CAC25985\Sheet1.~(4).SchDoc 
+10:07:02.475 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Sena\Desktop\altium derslerim\PCB_Project\Sheet1.$$$ (objects:29) 
+10:07:02.517 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Sena\Desktop\altium derslerim\PCB_Project\Sheet1.SchDoc 
+10:07:02.682 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.SavingDocument.Time: 230 ms 
+10:07:03.971 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:07:03.971 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:07:03.971 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:30:19.815 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) (0.001 s) Project logical compilation completed 
+10:41:07.847 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) Compilation requested (C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb): DCCW.ProjectSettingsChanged 
+10:41:07.847 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+10:41:07.847 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+10:41:07.847 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+10:41:07.847 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+10:41:07.858 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V8) (0.010 s) Project  compilation completed 
+10:41:07.858 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:2, Total violations:2, Delete existing:True) 
+10:41:07.858 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V8) (0.001 s) ERC default completed 
+10:41:07.858 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) (0.014 s) Compilation request completed: DONE  - C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb, Compiled: True 
+10:41:07.953 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) (0.007 s) Project DDM Compiled notifications end 
+10:41:07.953 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notification start - eUdmNavigator, C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb 
+10:41:07.953 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notification start - eUdmProjectView, C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb 
+10:41:07.953 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) (0.000 s) Markers for Schematic Error Objects: 2 
+10:41:07.953 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) (0.002 s) Compile Notifications end 
+10:55:32.030 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+10:55:32.128 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) Compilation requested (C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb): DCCW.ProjectSettingsChanged 
+10:55:32.688 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+10:55:32.791 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'UniqueIdsRepairer' completed 
+10:55:32.791 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'SheetNumberingUpdater' completed 
+10:55:32.791 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'ProjectStructureChangesNotifier' completed 
+10:55:32.791 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.000 s) Plugin 'CurrentDocumentViewUpdater' completed 
+10:55:32.791 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V9) (0.001 s) Project  compilation completed 
+10:55:32.796 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: (0.000 s) ViolationManagerConsumer (Incoming violations:2, Total violations:2, Delete existing:True) 
+10:55:32.796 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V9) (0.001 s) ERC default completed 
+10:55:32.796 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) (0.006 s) Compilation request completed: DONE  - C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb, Compiled: True 
+10:55:32.796 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) (0.001 s) Project DDM Compiled notifications end 
+10:55:32.796 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Compile Notification start - eUdmNavigator, C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb 
+10:55:32.796 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Compile Notification start - eUdmProjectView, C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb 
+10:55:32.796 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) (0.000 s) Markers for Schematic Error Objects: 2 
+10:55:32.796 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) (0.000 s) Compile Notifications end 
+10:55:35.591 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0015297, MEDIAN = 0:00:00,0015297, MAX = 0:00:00,0015297 
+10:55:36.361 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:55:36.361 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:55:36.361 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+10:55:53.874 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+10:55:53.874 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+10:55:53.874 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+11:56:24.977 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 1 ms 
+11:56:25.369 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): MEEPGXCQ 
+11:56:25.369 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+11:56:25.369 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 393 ms 
+11:56:25.369 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.Selection.SchComponent.Time: 394 ms 
+11:56:28.077 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0052605, MEDIAN = 0:00:00,0052605, MAX = 0:00:00,0052605 
+11:59:13.752 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmNavigator: 'Integrated_Library1.LibPkg' 
+11:59:16.578 [Warn] Altium.Sch.DataModel.Objects.SchDataObject: Change of the SchDataLibrary's UniqueID ignored ("PSJXSQNL" -> "NYYZUSZE"). 
+11:59:16.578 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+11:59:16.578 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 393 ms 
+11:59:16.616 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+11:59:16.616 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 393 ms 
+11:59:16.624 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Sena\Downloads\Integrated_Library\Schlib1.SchLib (objects:0) 
+11:59:18.186 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0033768, MEDIAN = 0:00:00,0033768, MAX = 0:00:00,0033768 
+11:59:27.437 [Warn] Altium.Sch.DataModel.Objects.SchDataObject: Change of the SchDataLibrary's UniqueID ignored ("UAAMSUFM" -> "PSJXSQNL"). 
+11:59:27.437 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+11:59:27.437 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 393 ms 
+11:59:27.492 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+11:59:27.492 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 393 ms 
+11:59:42.340 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+11:59:42.559 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+11:59:43.064 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+12:00:43.342 [Warn] Altium.Sch.DataModel.Objects.SchDataObject: Change of the SchDataLibrary's UniqueID ignored ("PZNEUXJB" -> "UXOCEWLG"). 
+12:46:36.954 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\History\00000000CAC25985\Sheet1.~(5).SchDoc 
+12:46:36.954 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\History\00000000CAC25985\Sheet1.~(5).SchDoc 
+12:46:36.954 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Sena\Desktop\altium derslerim\PCB_Project\Sheet1.$$$ (objects:29) 
+12:46:36.980 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Sena\Desktop\altium derslerim\PCB_Project\Sheet1.SchDoc 
+12:46:37.083 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] SCH.SavingDocument.Time: 136 ms 
+12:46:39.813 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+12:46:39.813 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 393 ms 
+12:47:00.319 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmNavigator: 'Integrated_Library1.LibPkg' 
+12:47:55.168 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.NetIdentifierScope: eFlatten_Smart 
+12:47:55.168 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.AllowPortsToNameNets: OFF 
+12:47:55.168 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.AllowSheetEntriesToNameNets: ON 
+12:47:55.168 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.AllowSinglePinNets: OFF 
+12:47:55.168 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.AppendSheetNumbersToLocalNets: OFF 
+12:47:55.168 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.HigherLevelNamesTakePriority: OFF 
+12:47:55.168 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.PowerPortNamesTakePriority: OFF 
+12:47:55.168 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.RemovingNetLabels: ON 
+12:47:55.168 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.PrjOption.ChangingSchematicPins: ON 
+12:47:55.168 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove C:\Users\Sena\Desktop\altium derslerim\PCB_Project_DENEME\PCB_Project_DENEME.PrjPcb 
+12:47:55.197 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+12:47:55.282 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+12:47:56.138 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+12:47:56.156 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+12:47:56.176 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+12:47:56.775 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+12:47:57.574 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Sena\AppData\Roaming\Altium\Altium Designer {FF27D62A-CF3B-466F-9B9F-2B74AD088D62}\Advsch.MMsdft (objects:38) 
+12:47:57.695 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Sena\AppData\Roaming\Altium\Altium Designer {FF27D62A-CF3B-466F-9B9F-2B74AD088D62}\Advsch.dft (objects:38) 
